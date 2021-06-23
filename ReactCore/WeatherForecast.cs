@@ -1,6 +1,6 @@
 using System;
 
-namespace ReactCore3._1
+namespace ReactCore
 {
     public class WeatherForecast
     {
